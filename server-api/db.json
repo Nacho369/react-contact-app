@@ -1,0 +1,49 @@
+{
+  "contacts": [
+    {
+      "id": "b04bd736-9b76-4b8e-a646-243869b785ac",
+      "name": "Fortune Iheanacho",
+      "email": "nacho@nachodev.tech"
+    },
+    {
+      "id": "bba6429b-f375-4d7f-9140-0a4a51506869",
+      "name": "Brad Traversy",
+      "email": "brad@traversymedia.com"
+    },
+    {
+      "id": "cdde6da4-1207-402d-bb4c-182672049016",
+      "name": "Dev Ed",
+      "email": "deved@deved.com"
+    },
+    {
+      "id": "6f3517cc-2404-4268-9b47-39491f3b0a95",
+      "name": "Nacho Dev",
+      "email": "nachodev@tech.com"
+    },
+    {
+      "id": "5d617f64-5c1f-4d25-997b-4909bc0c469e",
+      "name": "Test Case User 1",
+      "email": "test1@gmail.com"
+    },
+    {
+      "id": "fe3ea6b2-a9a1-44b9-b823-6358e8d82209",
+      "name": "Test Case User 2",
+      "email": "test@test2.com"
+    },
+    {
+      "id": "8191e057-b864-4147-a3e8-27eca6a1a5b3",
+      "name": "Tessy",
+      "email": "tesy12@yahoo.com"
+    },
+    {
+      "id": "7ae53d7d-4990-4bfa-8d2a-1bc395ba7c30",
+      "name": "New Test User",
+      "email": "tester@newuser.com"
+    },
+    {
+      "id": "c0344f4c-394d-4b3c-bc50-793a5c336d59",
+      "name": "New Tester",
+      "email": "new@tester.com"
+    }
+  ]
+}
